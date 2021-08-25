@@ -1,0 +1,15 @@
+{
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "description": "Xerio Bot discord ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xerio",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "parse-duration": "^0.4.4"
+  }
+}
